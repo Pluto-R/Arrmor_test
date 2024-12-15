@@ -1,0 +1,77 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++20",
+      "-O0",
+      "-g",
+      "-Wno-pointer-arith",
+      "-Wno-newline-eof",
+      "-Wno-unused-parameter",
+      "-Wno-gnu-statement-expression",
+      "-Wno-gnu-compound-literal-initializer",
+      "-Wno-gnu-zero-variadic-macro-arguments",
+      "-I/home/jqz/Desktop/course_/include",
+      "-I",
+      "./hikSDK/include",
+      "-I/usr/local/include/opencv4",
+      "-o",
+      "/home/jqz/Desktop/course_/build/src/ArmorDetector.o",
+      "src/ArmorDetector.cpp"
+    ],
+    "directory": "/home/jqz/Desktop/course_",
+    "file": "/home/jqz/Desktop/course_/src/ArmorDetector.cpp",
+    "output": "/home/jqz/Desktop/course_/build/src/ArmorDetector.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++20",
+      "-O0",
+      "-g",
+      "-Wno-pointer-arith",
+      "-Wno-newline-eof",
+      "-Wno-unused-parameter",
+      "-Wno-gnu-statement-expression",
+      "-Wno-gnu-compound-literal-initializer",
+      "-Wno-gnu-zero-variadic-macro-arguments",
+      "-I/home/jqz/Desktop/course_/include",
+      "-I",
+      "./hikSDK/include",
+      "-I/usr/local/include/opencv4",
+      "-o",
+      "/home/jqz/Desktop/course_/build/src/FindNum.o",
+      "src/FindNum.cpp"
+    ],
+    "directory": "/home/jqz/Desktop/course_",
+    "file": "/home/jqz/Desktop/course_/src/FindNum.cpp",
+    "output": "/home/jqz/Desktop/course_/build/src/FindNum.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++20",
+      "-O0",
+      "-g",
+      "-Wno-pointer-arith",
+      "-Wno-newline-eof",
+      "-Wno-unused-parameter",
+      "-Wno-gnu-statement-expression",
+      "-Wno-gnu-compound-literal-initializer",
+      "-Wno-gnu-zero-variadic-macro-arguments",
+      "-I/home/jqz/Desktop/course_/include",
+      "-I",
+      "./hikSDK/include",
+      "-I/usr/local/include/opencv4",
+      "-o",
+      "/home/jqz/Desktop/course_/build/src/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/jqz/Desktop/course_",
+    "file": "/home/jqz/Desktop/course_/src/main.cpp",
+    "output": "/home/jqz/Desktop/course_/build/src/main.o"
+  }
+]

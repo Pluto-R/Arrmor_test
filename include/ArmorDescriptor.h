@@ -2,8 +2,8 @@
 #define ARMORDESCRIPTOR_H
 
 #include<LightDescriptor.h>
-#include<ArmorParam.h>
 #include<opencv2/opencv.hpp>
+#include "ArmorParam.h"
 #include<vector>
 using namespace cv;
 #define BIG_ARMOR 1
@@ -13,6 +13,7 @@ using namespace cv;
 
 class ArmorDescriptor
 {
+    
 public:
     //全部初始化为0
     ArmorDescriptor();
